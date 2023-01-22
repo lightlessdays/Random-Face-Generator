@@ -18,10 +18,10 @@ Most android smartphones are compatible with the first .apk file. So, if you are
 Since I do not have XCode, it is not possible for me to build and distribute apps on iOS. To test this on your iOS device, you will need to download the code into your system and then open it in Android Studio. After this, you need to build the app for your iOS device. XCode is an essential requirement for this.
 
 ## Screenshots
-<p align="center">
-<img src="https://user-images.githubusercontent.com/97734029/213903018-19f44be5-c3aa-447b-8728-53187abb4412.jpg" width=40% alt="Screenshot1">|||<img src="https://user-images.githubusercontent.com/97734029/213903020-56599b0c-7829-444a-8358-4deda6343583.jpg" width=40% alt="Screenshot2">
-</p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97734029/213935613-86a34456-3445-48c5-9f45-b39869547cf6.jpg" width=28% alt="Screenshot1">|||<img src="https://user-images.githubusercontent.com/97734029/213935615-f5254785-324f-4fdd-8506-d167240a1584.jpg" width=28% alt="Screenshot2">|||<img src="https://user-images.githubusercontent.com/97734029/213935616-446776f7-7de3-4cf8-8a18-ec6556f1c3b8.jpg" width=28% alt="Screenshot3">
+</p>
 
 ## Links
 
