@@ -7,9 +7,9 @@ This app quickly and easily turns on the flash next to the rear camera, and keep
 
 To test this app on your device, you can download the .apk files from the links below:
 
-1. [ARM64-v8a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-arm64-v8a-release.apk?raw=true)
-2. [ARMABI-v7a.apk](https://github.com/lightlessdays/flashlight/blob/master/app-armeabi-v7a-release.apk?raw=true)
-3. [x86_64.apk](https://github.com/lightlessdays/flashlight/blob/master/app-x86_64-release.apk?raw=true)
+1. [ARM64-v8a.apk](https://github.com/lightlessdays/Random-Face-Generator/blob/master/app-arm64-v8a-release.apk?raw=true)
+2. [ARMABI-v7a.apk](https://github.com/lightlessdays/Random-Face-Generator/blob/master/app-armeabi-v7a-release.apk?raw=true)
+3. [x86_64.apk](https://github.com/lightlessdays/Random-Face-Generator/blob/master/app-x86_64-release.apk?raw=true)
 
 Most android smartphones are compatible with the first .apk file. So, if you are unsure about which .apk file to install, it is recommended that you install the first one.
 
